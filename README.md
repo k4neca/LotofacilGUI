@@ -6,7 +6,7 @@ Este é um programa simples em Java para simular um jogo de lotofácil com três
 
 Para começar, execute o programa e siga as instruções exibidas na interface gráfica.
 
-![Exemplo do menu](colocar endereço da imagem)
+![Exemplo do menu]([colocar endereço da imagem](https://github.com/k4neca/LotofacilGUI/blob/main/exemplo.png))
 
 ## Regras para cada tipo de Aposta
 
