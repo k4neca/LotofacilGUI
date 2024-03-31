@@ -28,14 +28,7 @@ Para começar, execute o programa e siga as instruções exibidas na interface g
 Afim de manter uma boa qualidade de imagem, o vídeo de apresentação do projeto foi upado no youtube...
 No vídeo é possível ver o tratamento de exceções em cada tipo de aposta, também é demonstrado quando o usuário acerta ou erra a aposta
 
-[Apresentação do projeto: ](https://youtu.be/CdposThtyR0)
+[Apresentação do projeto](https://youtu.be/CdposThtyR0)
 
-## Documentação Adicional
-
-Para mais detalhes sobre as classes e métodos utilizados neste programa, consulte a documentação oficial da linguagem Java:
-
-- [Classe Scanner](https://docs.oracle.com/javase/8/docs/api/java/util/Scanner.html)
-- [Classe Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
-- [Classe Character](https://docs.oracle.com/javase/8/docs/api/java/lang/Character.html)
 
 Divirta-se jogando!
