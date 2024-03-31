@@ -1,16 +1,12 @@
-# Jogo da Loteria
+# LOTOFÁCIL
 
-Este é um programa simples em Java para simular um jogo de loteria com três opções de apostas. O jogo continua permitindo novas apostas até que o usuário decida sair digitando 0.
+Este é um programa simples em Java para simular um jogo de lotofácil com três opções de apostas. O jogo continua permitindo novas apostas até que o usuário decida sair digitando 0.
 
 ## Como Jogar
 
-Para começar, execute o programa e siga as instruções exibidas no console.
+Para começar, execute o programa e siga as instruções exibidas na interface gráfica.
 
-### Menu LOTOFÁCIL:
-1) Apostar de 0 a 100
-2) Apostar de A à Z
-3) Apostar em par ou ímpar
-0) Sair
+![Exemplo do menu](colocar endereço da imagem)
 
 ## Regras para cada tipo de Aposta
 
@@ -27,6 +23,8 @@ Para começar, execute o programa e siga as instruções exibidas no console.
 ### Aposta de número par ou ímpar:
 - O programa verificará se o número é par ou ímpar.
 - Se o número for par, o jogador ganhará R$ 100,00 reais.
+
+- [Apresentação do projeto: ](https://youtu.be/CdposThtyR0)
 
 ## Documentação Adicional
 
