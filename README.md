@@ -24,7 +24,11 @@ Para começar, execute o programa e siga as instruções exibidas na interface g
 - O programa verificará se o número é par ou ímpar.
 - Se o número for par, o jogador ganhará R$ 100,00 reais.
 
-- [Apresentação do projeto: ](https://youtu.be/CdposThtyR0)
+### Apresentação do projeto
+Afim de manter uma boa qualidade de imagem, o vídeo de apresentação do projeto foi upado no youtube...
+No vídeo é possível ver o tratamento de exceções em cada tipo de aposta, também é demonstrado quando o usuário acerta ou erra a aposta
+
+[Apresentação do projeto: ](https://youtu.be/CdposThtyR0)
 
 ## Documentação Adicional
 
